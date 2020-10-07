@@ -2,6 +2,12 @@
 
 シーン保存時に RectTransform の AnchoredPosition3D や SizeDelta を整数に四捨五入するエディタ拡張
 
+## 依存しているパッケージ
+
+```
+https://github.com/baba-s/UniScriptableObjectForPreferences.git
+```
+
 ## 使い方
 
 ![2020-10-07_195416](https://user-images.githubusercontent.com/6134875/95322024-d5ec7880-08d6-11eb-8d09-1627d042b899.png)
