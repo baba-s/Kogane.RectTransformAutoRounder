@@ -1,12 +1,7 @@
-{
-    "name": "UniRectTransformAutoRounder.Editor",
-    "references": [
-        "GUID:70f1c483aa2de7b40b9c469569287d97",
-        "GUID:7b6be2b92e29eb34182d6da0ff1d6add"
-    ],
-    "includePlatforms": [
-        "Editor"
-    ],
+﻿{
+    "name": "Kogane.RectTransformAutoRounder.Runtime",
+    "references": [],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
