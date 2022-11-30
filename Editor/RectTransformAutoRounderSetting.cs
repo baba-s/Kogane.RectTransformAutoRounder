@@ -6,7 +6,7 @@ namespace Kogane.Internal
     /// <summary>
     /// Preferences における設定を管理する ScriptableObject
     /// </summary>
-    [FilePath( "UserSettings/Kogane/RectTransformAutoRounder.asset", FilePathAttribute.Location.ProjectFolder )]
+    [FilePath( "UserSettings/Kogane/RectTransformAutoRounderSetting.asset", FilePathAttribute.Location.ProjectFolder )]
     internal sealed class RectTransformAutoRounderSetting : ScriptableSingleton<RectTransformAutoRounderSetting>
     {
         //================================================================================
